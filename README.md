@@ -4,4 +4,4 @@ Fork this repository for the practice session.
 ## Locally running the application
 See the local-run folder.
 
-push for running the pipeline
+push for running the pipeline 2
